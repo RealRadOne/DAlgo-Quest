@@ -1,13 +1,5 @@
-//LeetCode Problem-19
-//Remove Nth Node from end
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
- * }
- */
+//LeetCode Problem-Remove Nth Node from the End of List
+//TestCases Passed-190/208
 class Solution 
 {
     public int Llens(ListNode head)
